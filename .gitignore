@@ -1,0 +1,12 @@
+# Ignore Node.js dependencies
+node_modules/
+.env
+
+# Ignore Hardhat-generated files
+artifacts/
+cache/
+
+# Ignore IDE & OS-related files
+.DS_Store
+.vscode/
+.idea/
