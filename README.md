@@ -44,12 +44,14 @@ npm install
 ```
 
 ### **4. Start Hardhat Local Blockchain**
+open cmd and cd into the project directory and run:
 ```bash
 npx hardhat node
 ```
 This runs a local Ethereum network where smart contracts can be deployed and tested.
 
 ### **5. Deploy Smart Contract**
+open another cmd and cd into the project directory and run:
 ```bash
 npx hardhat run scripts/deploy.js --network localhost
 ```
