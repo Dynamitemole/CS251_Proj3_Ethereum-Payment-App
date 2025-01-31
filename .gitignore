@@ -1,7 +1,3 @@
-# Ignore Node.js dependencies
-node_modules/
-.env
-
 # Ignore Hardhat-generated files
 artifacts/
 cache/
